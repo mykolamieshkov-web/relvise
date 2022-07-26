@@ -63,10 +63,11 @@ max-width: 100%;
 background-image: url("../img/bg.PNG");
 background-repeat: no-repeat;
 background-size:cover;
- backgroud-position: right;  
- 
-
 }
+@media screen and (max-device-width: 800px) {
+   .container{
+   background-position: left;}
+   }
 .title {
   height: 240px;
 width: 509px;
