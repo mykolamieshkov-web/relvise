@@ -57,16 +57,19 @@ color: #737373;
   text-decoration: underline;
 }
 .container {
-  display: flex;
-  height: 793px;
+height: 793px;
 width: 1440px;
 max-width: 100%;
-
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
 border-radius: 0px;
 background-image: url("../img/bg.PNG");
 background-repeat: no-repeat;
 background-size:cover;
-background-position:auto;   
+background-position: auto; 
 
 }
 .title {
