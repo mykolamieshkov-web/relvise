@@ -63,6 +63,7 @@ max-width: 100%;
 background-image: url("../img/bg.PNG");
 background-repeat: no-repeat;
 background-size:cover;
+ backgroud-position: right;  
  
 
 }
