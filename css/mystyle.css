@@ -66,7 +66,7 @@ border-radius: 0px;
 background-image: url("../img/bg.PNG");
 background-repeat: no-repeat;
 background-size:cover;
-background-position:center;   
+background-position:auto;   
 
 }
 .title {
