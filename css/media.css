@@ -1,11 +1,9 @@
 .container_wrap {
    display: block;
-   border: 1px solid red;
    width: 100vh;
    height: 100vh;
 }
 .nav_bar {
-   border: 1px solid green;
   max-width: 794px;
   height: 712px;
    justify-content: center;
