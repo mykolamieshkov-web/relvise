@@ -1,0 +1,44 @@
+.container_wrap {
+   display: block;
+   border: 1px solid red;
+   width: 100vh;
+   height: 100vh;
+}
+.nav_bar {
+   border: 1px solid green;
+  max-width: 794px;
+  height: 712px;
+   justify-content: center;
+   max-height: 793px;
+   background-position: center;
+   background-size: cover;
+}
+body {
+   margin: 0px;
+}
+.links a {
+   font-size: 12px;
+}
+.nav_bar_title h1 {
+   font-family: 'Montserrat', sans-serif;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 40px;
+   /* or 138% */
+   letter-spacing: 0.2px;
+   margin: 10px;
+   
+   /* text-color */
+
+   color: #252B42;
+
+}
+.nav_bar_subtitle p {
+   font-size: 10px;
+   margin: 10px;
+}
+.nav_bar_btn button {
+   width: 90px; 
+   height:24px;
+}
